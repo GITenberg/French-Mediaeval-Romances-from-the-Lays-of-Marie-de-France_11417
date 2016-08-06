@@ -1,0 +1,48 @@
+_repo: French-Mediaeval-Romances-from-the-Lays-of-Marie-de-France_11417
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mason, Eugene
+    gutenberg_agent_id: '5102'
+    url: http://www.gutenberg.org/2009/agents/5102
+creator:
+  author:
+    agent_name: Marie, Queen of Rumania
+    alias: France, Marie de
+    gutenberg_agent_id: '3972'
+    url: http://www.gutenberg.org/2009/agents/3972
+    wikipedia: http://en.wikipedia.org/wiki/Marie_de_France
+description: "The lais of Marie de France are a series of twelve short narrative Breton\
+  \ lais by the poet Marie de France. They are written in the Anglo-Norman and were\
+  \ probably composed in the late 12th century. The short, narrative poems generally\
+  \ focus on glorifying the concept of courtly love by the adventures of their main\
+  \ characters. Despite her stature in Anglo-Norman literature and medieval French\
+  \ literature generally, little is known of Marie herself, but it is thought that\
+  \ she was born in France and wrote in England.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11417'
+  wikidata: Q2594423
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Lays -- Translations into English'
+- !lcsh 'Marie, de France, active 12th century -- Translations into English'
+- !lcsh 'Romances -- Translations into English'
+- GITenberg
+title: French Mediaeval Romances from the Lays of Marie de France
+url: http://www.gutenberg.org/ebooks/11417
+wikipedia:
+- https://fr.wikipedia.org/wiki/Lais_de_Marie_de_France
+- https://nl.wikipedia.org/wiki/Lais_van_Marie_de_France
+- https://pt.wikipedia.org/wiki/Lais_de_Marie_de_France
+- https://es.wikipedia.org/wiki/Lais_de_Mar%C3%ADa_de_Francia
+- https://en.wikipedia.org/wiki/Lais_of_Marie_de_France
+- https://pl.wikipedia.org/wiki/Lais_Marie_de_France
+- https://br.wikipedia.org/wiki/Laeo%C3%B9_Marie_de_France
+- https://ru.wikipedia.org/wiki/%D0%9B%D1%8D_%D0%9C%D0%B0%D1%80%D0%B8%D0%B8_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%BE%D0%B9
+- https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%A8_%D7%94%D7%A2%D7%9C%D7%99%D7%9C%D7%95%D7%AA
